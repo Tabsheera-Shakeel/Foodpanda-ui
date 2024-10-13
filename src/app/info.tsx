@@ -4,7 +4,7 @@ function Info(){
     return(
         <div className="w-full flex flex-col items-center -mt-2">
 
-        <h1 className="text-xl font-bold mb-4 text-center">You prepare the food, we handle the rest</h1>
+        <h1 className="text-xl font-bold mb-4 text-center">You prepare the food&#44; we handle the rest</h1>
         <div className="relative w-full h-64 md:h-80">
         <Image 
             src="https://images.deliveryhero.io/image/foodpanda/home-vendor-pk.jpg?width=1264&height=808.96"
@@ -16,7 +16,7 @@ function Info(){
     </div>
 
     
-    <h2 className="text-xl font-bold mb-4 text-center mt-4">Find us in these cities and many more!</h2>
+    <h2 className="text-xl font-bold mb-4 text-center mt-4">Find us in these cities and many more&#33;</h2>
     <div className="flex justify-center w-full flex-wrap">
     <div className="relative w-1/3 m-2 h-52 transform transition-transform duration-300 hover:scale-105 hover:shadow-lg">
         <Image 
@@ -111,7 +111,7 @@ function Info(){
       Download the food and groceries you love
     </h3>
     <p className="m-3 mt-0 font-serif text-lg text-white">
-      It's all at your fingertips – the restaurants and shops you love. Find the right food and groceries to suit your mood, and make the first bite last. Go ahead, download us.
+      It&apos;s all at your fingertips the restaurants and shops you love. Find the right food and groceries to suit your mood&#44; and make the first bite last. Go ahead&#44; download us.
     </p>
   </div>
 
@@ -147,7 +147,7 @@ function Info(){
 
       <div className="w-1/2 font-serif mt-14 ml-3 flex flex-col justify-start items-start">
       <p className="m-2 text-xl font-normal text-slate-900e">foodpanda for business</p>
-     <p className="m-2 text-base text-slate-600">Order lunch or fuel for work-from-home, late nights in the office, corporate events, client meetings, and much more.</p>  
+     <p className="m-2 text-base text-slate-600">Order lunch or fuel for work-from-home&#44; late nights in the office&#44; corporate events&#44; client meetings&#44; and much more.</p>  
      </div>
       </div>
 </div> 

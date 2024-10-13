@@ -5,10 +5,11 @@ const nextConfig = {
       'images.deliveryhero.io',
       'encrypted-tbn0.gstatic.com',
       'upload.wikimedia.org',
-      'i.pinimg.com', 
+      'i.pinimg.com',
       'www.foodpanda.com',
+      'cdn-icons-png.flaticon.com'
     ],
-      },
+  },
 };
 
 export default nextConfig;

@@ -9,7 +9,7 @@ function Home(){
      
      <div className="bg-slate-100 flex flex-col-reverse items-start mb-10 md:flex-row w-full">
       <div className="flex flex-col items-start m-9 ">
-     <h1 className="m-3 mt-0 font-serif  text-xl md:text-2xl font-semibold text-gray-800">It's the food and groceries you love, delivered</h1>
+     <h1 className="m-3 mt-10 font-serif  text-xl md:text-2xl font-semibold text-gray-800">Its the food and groceries you love&#44; delivered</h1>
       <input className="border-slate-300 w-full md:w-72 border rounded-md h-10 p-2" type="text" placeholder="Your street and street number" name="serachbar"></input>
        <button className="bg-pink-600 full md:w-auto text-xs items-center mt-3 p-2 text-white h-10 rounded-md">Find Food</button>
      </div>
